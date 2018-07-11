@@ -1,0 +1,50 @@
+{
+  "name": "otimizando_com_gulp",
+  "version": "1.0.0",
+  "description": "Curso de Gulp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soamazyng/udemy_gulpotimizandocomgulpjs.git"
+  },
+  "keywords": [
+    "gulp",
+    "curso",
+    "do",
+    "gulp",
+    "aprendendo",
+    "a",
+    "mexer",
+    "no",
+    "gulp",
+    "udemy",
+    "curso",
+    "gulp"
+  ],
+  "author": "Jay Benedicto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soamazyng/udemy_gulpotimizandocomgulpjs/issues"
+  },
+  "homepage": "https://github.com/soamazyng/udemy_gulpotimizandocomgulpjs#readme",
+  "devDependencies": {
+    "angular": "^1.7.2",
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-customize-bootstrap": "0.0.6",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-less": "^3.5.0",
+    "gulp-rename": "^1.3.0",
+    "gulp-uglifycss": "^1.1.0",
+    "jquery": "^3.3.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.3"
+  }
+}
